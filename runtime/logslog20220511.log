@@ -1,0 +1,7 @@
+[32m[INFO][0m[db.go:105]2022/05/11 00:09:59 MongoDbName &{<nil> 0xc0002821e0 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[db.go:105]2022/05/11 21:40:38 MongoDbName &{<nil> 0xc0002801e0 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[db.go:105]2022/05/11 21:43:25 MongoDbName base-go
+[32m[INFO][0m[db.go:106]2022/05/11 21:43:25 MongoDbName &{<nil> 0xc0002801e0 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[main.go:28]2022/05/11 22:16:50 ds &{0xc00020dc50 <nil>}
+[32m[INFO][0m[main.go:28]2022/05/11 22:17:02 ds &{0xc00020dc50 <nil>}
+[32m[INFO][0m[main.go:28]2022/05/11 23:51:27 ds &{0xc0003da6f0 <nil>}

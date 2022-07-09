@@ -1,0 +1,41 @@
+definitions:
+  app.ResponseError:
+    properties:
+      data: {}
+      error:
+        type: string
+    type: object
+info:
+  contact: {}
+  description: Service auth of hxb
+  license:
+    name: MIT
+  termsOfService: https://github.com/pdnguyen1503/base-go
+  title: Auth Service API
+  version: "1.0"
+paths:
+  /:
+    get:
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: object
+        "400":
+          description: Bad Request
+          schema:
+            $ref: '#/definitions/app.ResponseError'
+        "401":
+          description: Unauthorized
+          schema:
+            $ref: '#/definitions/app.ResponseError'
+        "500":
+          description: Internal Server Error
+          schema:
+            $ref: '#/definitions/app.ResponseError'
+      summary: CreatePayment
+      tags:
+      - User
+swagger: "2.0"

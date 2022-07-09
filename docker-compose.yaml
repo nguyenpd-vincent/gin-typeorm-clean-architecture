@@ -1,0 +1,14 @@
+version: '3.1'
+services:
+  mongo_service:
+    image: mongo
+    container_name: mongodb1
+    environment:
+      - MONGO_INITDB_DATABASE=base-go
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=12345678
+    ports:
+      - "27017:27017"
+    volumes:
+      - /home/loh/mongo/data:/data/db
+    # restart: always

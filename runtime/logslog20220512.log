@@ -1,0 +1,18 @@
+[32m[INFO][0m[main.go:28]2022/05/12 00:00:19 ds &{0xc0003da6f0 <nil>}
+[32m[INFO][0m[main.go:28]2022/05/12 00:00:33 ds &{0xc0003d86f0 <nil>}
+[32m[INFO][0m[main.go:29]2022/05/12 00:03:52 ds &{0xc0003ee6f0 <nil>}
+[32m[INFO][0m[main.go:29]2022/05/12 00:08:15 ds &{0xc0003ea6f0 <nil>}
+[32m[INFO][0m[main.go:31]2022/05/12 00:08:31 ds &{0xc0003ec6f0 <nil>}
+[32m[INFO][0m[main.go:32]2022/05/12 00:09:52 ds &{0xc0003ec6f0 <nil>}
+[32m[INFO][0m[main.go:32]2022/05/12 15:52:42 ds &{0xc0003ec6f0 <nil>}
+[32m[INFO][0m[main.go:32]2022/05/12 15:57:36 ds &{0xc0003ea6f0 <nil>}
+[32m[INFO][0m[db.go:105]2022/05/12 15:59:02 MongoDbName base-go
+[32m[INFO][0m[db.go:106]2022/05/12 15:59:02 MongoDbName &{<nil> 0xc0003f3180 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[db.go:105]2022/05/12 15:59:41 MongoDbName base-go
+[32m[INFO][0m[db.go:106]2022/05/12 15:59:41 MongoDbName &{<nil> 0xc0003f1180 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[db.go:121]2022/05/12 15:59:41 connected to mongo: localhost:27017 (db: base-go)
+[32m[INFO][0m[main.go:32]2022/05/12 15:59:41 ds &{0xc0003ec6f0 <nil>}
+[32m[INFO][0m[db.go:105]2022/05/12 15:59:58 MongoDbName base-go
+[32m[INFO][0m[db.go:106]2022/05/12 15:59:58 MongoDbName &{<nil> 0xc0003f1180 <nil> <nil> [] <nil> <nil> <nil> <nil> [] <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil> <nil>  <nil> <nil> <nil> <nil>}
+[32m[INFO][0m[db.go:121]2022/05/12 15:59:58 connected to mongo: localhost:27017 (db: base-go)
+[32m[INFO][0m[main.go:32]2022/05/12 15:59:58 ds &{0xc0003ec6f0 0xc000424000}
